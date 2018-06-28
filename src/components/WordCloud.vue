@@ -224,7 +224,7 @@ export default {
       layout.stop().size([width, height]).words(words).start()
     }
   }
-}
+};
 </script>
 
 
